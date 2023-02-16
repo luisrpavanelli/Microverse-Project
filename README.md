@@ -66,7 +66,7 @@
 
 ## 🚀 View <a name="view"></a>
 
-- [Click here to view]https://htmlpreview.github.io/?https://github.com/luisrpavanelli/Hello-Microverse-Project/blob/main/index.html
+- [Click here to view]: https://htmlpreview.github.io/?https://github.com/luisrpavanelli/Hello-Microverse-Project/blob/main/index.html
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
