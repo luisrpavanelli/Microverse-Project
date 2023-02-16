@@ -131,6 +131,4 @@ Thank you for the opportunity to learn and grow with Microverse.org. I appreciat
 
 This project is [MIT](./LICENSE) licensed.
 
-https://github.com/luisrpavanelli/Microverse-Project/blob/main/MIT.md
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
