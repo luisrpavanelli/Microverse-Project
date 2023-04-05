@@ -64,9 +64,9 @@
 
 <!-- View -->
 
-## 🚀 View <a name="View"></a>
+## 🚀 View <a name="View"></a> https://luisrpavanelli.github.io/luisrpavanelli-Microverse-Project.github.io/
 
-[Click here to view]: https://htmlpreview.github.io/?https://github.com/luisrpavanelli/Hello-Microverse-Project/blob/main/index.html
+[Click here to view]: https://luisrpavanelli.github.io/luisrpavanelli-Microverse-Project.github.io/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
